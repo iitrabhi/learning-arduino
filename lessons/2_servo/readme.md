@@ -15,3 +15,4 @@ These setting are very important to set in VSCode
 ## References
 
 - https://docs.arduino.cc/learn/electronics/servo-motors
+- https://learn.adafruit.com/breadboards-for-beginners?view=all
