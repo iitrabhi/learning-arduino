@@ -24,3 +24,4 @@ This setup worked without conecting the ground to the arduino board. Do not know
 - https://forum.arduino.cc/t/stepper-motor-example-does-not-work/632763/5
 - https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/
 - [Bipolar Circuit](https://circuitmagic.com/arduino/how-to-run-a-stepper-motor-with-an-arduino-l293d-ic/)
+- [good video](https://www.youtube.com/watch?v=hZNF7tAJmfk&t=49s)
